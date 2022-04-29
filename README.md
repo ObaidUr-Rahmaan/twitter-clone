@@ -1,9 +1,9 @@
-## Twitter Clone
+# Twitter Clone
 
-# Tech Stack
+## Tech Stack
 
 - Next.js, Tailwind CSS, Firebase v9, NextAuth, Recoil
 
-# System Design
+## System Design
 
 - Coming soon...
